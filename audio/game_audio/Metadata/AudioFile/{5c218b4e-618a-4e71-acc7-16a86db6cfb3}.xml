@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="AudioFile" id="{5c218b4e-618a-4e71-acc7-16a86db6cfb3}">
+		<property name="assetPath">
+			<value>looperman-l-1433275-0139670-jamaica-dancehall (1).wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>10.666666666666666</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{8f0f7fda-4d79-4813-bdc5-c4616cbcda24}</destination>
+		</relationship>
+	</object>
+</objects>
